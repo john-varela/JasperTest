@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.5.0.final using JasperReports Library version 6.3.0  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Report" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" isTitleNewPage="true" uuid="30ff77ca-6b32-440e-8168-72a21e4e002d">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="201" y="16" width="153" height="46" uuid="d37c6592-97ce-4b1a-8cbd-5d55e9e500c3"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="20"/>
+				</textElement>
+				<text><![CDATA[Test Report]]></text>
+			</staticText>
+		</band>
+	</title>
+	<detail>
+		<band height="125" splitType="Stretch">
+			<staticText>
+				<reportElement x="227" y="47" width="100" height="30" uuid="546715f6-3b22-4472-819a-a69873535c1c"/>
+				<text><![CDATA[This is a test of Jasper reports.]]></text>
+			</staticText>
+		</band>
+	</detail>
+</jasperReport>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\john.varela\DCNET\Jaspersoft\Reports"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="828" key="DIALOG_WIDTH"/>
+		<item value="false" key="BUILD_ALL"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="595" key="DIALOG_HEIGHT"/>
+		<item value="546" key="DIALOG_X_ORIGIN"/>
+		<item value="144" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="net.sf.jasperreports.projectwizar" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.jaspersoft.studio"/>
+		</list>
+	</section>
+</section>
